@@ -10,7 +10,6 @@
   .awesome {
     display: flex;
     flex-direction: column;
-    position: relative;
   }
   
   .awesome > :nth-child(1) {

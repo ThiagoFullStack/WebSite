@@ -67,6 +67,6 @@
       gap: 17rem;
     }
     .cards > * {
-      position: static;
+      position: sticky;
     }
   }

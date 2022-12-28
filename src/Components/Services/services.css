@@ -38,7 +38,7 @@
     position: relative;
   }
   .cards > * {
-    position: relative;
+    position: absolute;
   }
   
   /* blur */

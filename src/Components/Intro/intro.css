@@ -10,7 +10,6 @@
     flex: 1;
     flex-direction: column;
     gap: 2rem;
-    /* border: solid  #232; */
 }
 
 .i-name{
@@ -65,7 +64,6 @@
 .i-right{
     flex: 1;
     position: relative;
-    /* border: solid  #232; */
 }
 
 .i-right>*{

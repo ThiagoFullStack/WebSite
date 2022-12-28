@@ -6,7 +6,7 @@ const Card = ({emoji, heading, detail, link}) => {
 
   return(
     <div className='card'>
-        <img src={emoji} alt="emoji" />
+        <img src={emoji} target="blank"  alt="emoji" />
         <span>{heading}</span>
         <span>{detail}</span>
         <a href={link}>

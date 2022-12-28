@@ -31,26 +31,26 @@ const Portfolio = () => {
             className='portfolio-slider'
         >
             <SwiperSlide>
-            <a href='https://devlinkcb2.netlify.app/' style={{textDecoration: 'none'}}>
+            <a href='https://devlinkcb2.netlify.app/' target="blank"  style={{textDecoration: 'none'}}>
                 <span style={{fontSize: '0.5rem', fontWeight: 'bold', color: 'var(--red)'}}>( REACT )</span>
             </a>
                 <img src={Sidebar} alt="" />
                
             </SwiperSlide>
             <SwiperSlide>
-            <a href='https://filme-prime-flix.netlify.app/' style={{textDecoration: 'none'}}>
+            <a href='https://filme-prime-flix.netlify.app/' target="blank" style={{textDecoration: 'none'}}>
                 <span style={{fontSize: '0.5rem', fontWeight: 'bold', color: 'red'}}>( API / HTTP )</span>
             </a>
                 <img src={Ecommerce} alt="" />
             </SwiperSlide>{" "}
             <SwiperSlide>
-            <a href='https://confeitaria-ana-explosao-de-sabores.vercel.app/' style={{textDecoration: 'none'}}>
+            <a href='https://confeitaria-ana-explosao-de-sabores.vercel.app/' target="blank"  style={{textDecoration: 'none'}}>
                 <span style={{fontSize: '0.5rem', fontWeight: 'bold', color: 'red'}}>( HTML/CSS )</span>
             </a>
                 <img src={Hoc} alt="" />
             </SwiperSlide>
             <SwiperSlide>
-            <a href='https://app.powerbi.com/view?r=eyJrIjoiNjYxNzhiZDYtNGQ4Yy00ZWFmLThlMGItOTg1M2JhZTE1NDI4IiwidCI6ImEwZTZhYzBjLTY1MDItNDM1Mi04NmYyLTkyMzA1MTYwNjUxYSJ9' style={{textDecoration: 'none'}}>
+            <a href='https://app.powerbi.com/view?r=eyJrIjoiNjYxNzhiZDYtNGQ4Yy00ZWFmLThlMGItOTg1M2JhZTE1NDI4IiwidCI6ImEwZTZhYzBjLTY1MDItNDM1Mi04NmYyLTkyMzA1MTYwNjUxYSJ9' target="blank"  style={{textDecoration: 'none'}}>
                 <span style={{fontSize: '0.5rem', fontWeight: 'bold', color: 'red'}}>( POWER BI )</span>
             </a>
                 <img src={Musicapp} alt="" />

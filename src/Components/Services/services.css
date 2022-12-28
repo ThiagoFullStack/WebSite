@@ -35,10 +35,10 @@
   }
   /* right sided */
   .cards {
-    position: relative;
+    position: absolute;
   }
   .cards > * {
-    position: absolute;
+    position: relative;
   }
   
   /* blur */

@@ -3,7 +3,7 @@
 
 ![Welcome](./src/img/website.png?raw=true)
 
-📋 This project is the source code made by Visual Studio code where I commit to Github to upload to Vercel, available at:  - [vercel.com (https://app.netlify.com/)] Access the site ➡ ( https://filme-prime-flix.netlify.app/ )
+📋 This project is the source code made by Visual Studio code where I commit to Github to upload to Vercel, available at:  - [vercel.com (https://vercel.com/)] Access the site ➡ ( https://web-site-eight-gamma.vercel.app/ )
 
 
 ## 🎉 Start
@@ -15,24 +15,20 @@ These instructions will get you a copy of the project up and running on your loc
 You need to use Front-end.
 
 ```
-* REACT.JS
-* JAVASCRIPT
+* HTML
 * CSS
+* JAVASCRIPT
+* REACT.JS
+* NODE
 ```
 
 ## 📚 Library 🧠 
 ```
    BUILD
 * yarn build
-create file 
-_redirects + inside /* /index.html 200
 
     DEPLOY DO PROJETO
-* yarn add netlify
-netlify deploy
-./build
-netlify deploy --prod
-./build
+* Import GitHub
 ```
 
 
@@ -43,6 +39,8 @@ We created the layout using VS Code. You can find the file [aqui](https://code.v
 ## 🎮🎧 Author: ⚽💻 
 
 * 😎 **Thiago Caetano** - [LinkedIn](https://www.linkedin.com/in/thiagocb2-developer-fullstack/)
+
+* 💻🖱 **Thiago Lourenço** - [GitHub](https://github.com/ThiagoFullStack)
 
 
 

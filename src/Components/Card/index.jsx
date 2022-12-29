@@ -6,10 +6,10 @@ const Card = ({emoji, heading, detail, link}) => {
 
   return(
     <div className='card'>
-        <img src={emoji} target="blank"  alt="emoji" />
+        <img src={emoji} alt="emoji" />
         <span>{heading}</span>
         <span>{detail}</span>
-        <a href={link}>
+        <a href={link}  target="blank" >
             <button className="c-button">
               LEARN MORE <FiLink size={30} color={'var(--orange)'}/> </button>
         </a>

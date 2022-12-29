@@ -41,7 +41,7 @@ const Services = () => {
                 transition={transition}
                 style={{left: '14rem'}}>
                 <Card
-                    link = {'https://www.linkedin.com/in/thiagocb2-developer-fullstack/'}
+                    link = {'https://www.youtube.com/watch?v=W0bPsPHAjrQ&list=PLuDfCQO9tvX0kDmh4cjo30uidCeJ-iZE6'}
                     emoji = {HeartEmoji}
                     heading = {'UX/UL Designer'}
                     detail = {'Figma, Gimp, Photoshop, Scrum(Ágil)'}
@@ -55,7 +55,7 @@ const Services = () => {
                 transition={transition}
                 style={{top: '12rem', left: '-4rem'}}>
                 <Card
-                    link = {'https://www.instagram.com/thiagofullstack/'}
+                    link = {'https://www.youtube.com/@programacaoweb/playlists'}
                     emoji = {Glasses}
                     heading = {'Developer'}
                     detail = {'Html, Css, Javascript, React, Node'}
@@ -69,7 +69,7 @@ const Services = () => {
                 transition={transition}
                 style={{top: '19rem', left: '12rem'}}>
                 <Card
-                    link = {'https://www.github.com/ThiagoFullStack'}
+                    link = {'https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r'}
                     emoji = {Humble}
                     heading = {'Database'}
                     detail = {'Firebase, Mysql, Sql-Server, MongoDB'}

@@ -1,6 +1,6 @@
 import { React, useRef, useState} from 'react';
 import './contact.css';
-import emailjs from '@emailjs/browser'; //https://www.emailjs.com/docs/examples/reactjs/
+import emailjs from '@emailjs/browser'; //https://www.emailjs.com/docs/examples/reactjs/  //npm install @emailjs/browser 
 
 
 const Contact = () => {
